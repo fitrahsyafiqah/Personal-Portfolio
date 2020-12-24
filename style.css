@@ -1,0 +1,23 @@
+body
+	{
+		background-color:lavenderblush;
+	}
+h1
+	{
+		font-family: 'Oregano', cursive;
+		font-size:60px;
+		color:salmon;
+		border:3px solid magenta;
+		padding:10px;
+		border-radius:40px;
+		display:inline-block;
+		background-color:papayawhip;
+	}
+p
+	{
+		font-family: 'Itim', cursive;
+		font-size:30px;
+		background-color:pink;
+		color:crimson;
+		border:3px dotted bisque;
+	}
